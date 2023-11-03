@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Front-End,Back-End, Databases, MERN ,Software Developer**
 
-- 📄 Know about my experiences [https://karimselmi.netlify.app/](https://karimselmi.netlify.app/)
+- 📄 My Portfolio [https://karimselmi.netlify.app/](https://karimselmi.netlify.app/)
 
 - ⚡ Fun fact **I Think i'm good**
 
