@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karimselmi](https://github.com/Karimselmi)
 
-- 💬 Ask me about **Front-End,Back-End, Databases, MERN ,Software Developer**
+- 💬 Ask me about **Front-End,Back-End, Databases, MERN ,Software Development**
 
 - 📄 My Portfolio [https://karimselmi.netlify.app/](https://karimselmi.netlify.app/)
 
