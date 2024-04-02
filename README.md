@@ -103,14 +103,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Karimselmi/Karimselmi/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
-  <img height="200" src="https://i.gifer.com/9P93.gif"  />
+  <img height="200" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"  />
 </div>
-
 ###
 
 
