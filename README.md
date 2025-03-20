@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">✨ Creative <br>📚 I'm currently learning more about Cyber security and in the free time i code <br>🎯 Goals: Cyber security expert <br>🎲 Fun fact: i think i'm good <br>my portfolio :  https://karimselmi.netlify.app/</h6>
+<h6 align="left">✨ Creative <br>📚 I'm currently learning more about Cyber security and in the free time i code <br>🎯 Goals: Cyber security expert <br>🎲 Fun fact: i think i'm good <br></h6>
 
 ###
 
